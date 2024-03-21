@@ -1,3 +1,9 @@
+ 
+ // Footer
+ var currentYear = new Date().getFullYear();
+ document.getElementById('current-year').textContent += currentYear;
+
+
 /* For navbar section */
 
 
@@ -93,7 +99,3 @@ for (var i = 0; i < acc.length; i++) {
 }
 
 
-
- // Footer
- var currentYear = new Date().getFullYear();
- document.getElementById('current-year').textContent += currentYear;
