@@ -129,7 +129,8 @@ body, html {
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.862), rgba(0, 0, 0, 0.441)), url("/Volumes/DATA/SAIT-IDD-Graphics Design Major/SEM 2/4. CPRG 218 - Intermediate Web Communications/2024-03-19_Build a Responsive, Static Website/cprg-218-assignment-2/assets/NavrajLinkednProfile Pic 2.png");
+  background-image: linear-gradient(rgba(1, 7, 56, 0.319), rgba(0, 0, 0, 0.731)), url("NavrajLinkednProfile Pic 2.png");
+  height: 50%;
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -504,3 +505,5 @@ body, html {
     padding: 0; 
     margin: 0; 
   }
+
+  
